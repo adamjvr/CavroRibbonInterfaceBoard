@@ -1,0 +1,19 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Cavro Ribbon Interface.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard\PCB\Cavro Ribbon Interface.PrjPcb|ReportField=Title~Bill of Materials For Project [Cavro Ribbon Interface.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~57|ReportField=ReportTime~11:39:57 PM|ReportField=ReportDate~12/22/2013|ReportField=ReportDateTime~12/22/2013 11:39:57 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/22/2013|ReportField=CurrentTime~11:39:55 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard\PCB\Power.SchDoc|ReportField=DocumentName~Power.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/22/2013|ReportField=Organization~|ReportField=ProjectName~Cavro Ribbon Interface.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Cavro Ribbon Interface.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard\PCB\Cavro Ribbon Interface.PrjPcb
+VAS B|Polarized Capacitor (Radial)|C1, C5, C9, C14, C15|Panasonic VS B|Cap Pol1|5
+1206 Tantulum|Capacitor (Semiconductor SIM Model)|C2, C3, C4, C6, C7, C8, C10, C11, C12|C1206|Cap Semi|9
+0603|Capacitor (Semiconductor SIM Model)|C13, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28|1608[0603]|Cap Semi|14
+LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D1, D3|SM 0805 polarized|LED2|2
+PMEG4050EP|Default Diode|D2|PMEG4050EP|Diode|1
+Header 3X2|Header, 3-Pin, Dual row|END_STOP1, END_STOP2|HDR2X3|Header 3X2|2
+Ferrite|Inductor|FB1, FB2, FB3|SM 0805 - gap trimmed|Inductor|3
+Header 5X2|Header, 5-Pin, Dual row|MOTOR|HDR2X5|Header 5X2|1
+Res3|Resistor|R1, R2, R3, R4|SM 0805 - gap trimmed|Res3|4
+0603|Resistor|R5, R6|J1-0603|Res3|2
+Header 16H|Header, 16-Pin, Right Angle|RIBBON|HDR1X16H|Header 16H|1
+Header 2|Header, 2-Pin|T1, T2, T3, T4|HDR1X2|Header 2|4
+TLV117113|Linear Regulator|U1|TLV117112|TLV117112|1
+LM7805-ST 800ma||U2|DPAK-3|LM708-ST 800ma|1
+TPS73101|Ti TPS73101 Adjustable LDO|U3|TPS73101|TPS73101|1
+MAX31855EASA+|Cold Junction Compensated Thermocouple to Digital Converter, 14 Bits Temperature Resolution, -40 to 125 degC, 8-Pin SOIC (S8+4), Pb-Free|U4, U5, U6, U7|MAXM-S8+4_N|MAX31855EASA+|4
+TXS0102|TXS0102|U8|TXS0102|TXS0102|1
+74AC245||U9|74AC245|74AC245|1
