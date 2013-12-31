@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetRIBBON_9 Pin=U9-4
-Removed Pin From Net: NetName=NetRIBBON_8 Pin=U9-5
-Removed Pin From Net: NetName=NetRIBBON_11 Pin=U9-6
-Removed Pin From Net: NetName=NetRIBBON_10 Pin=U9-7
-Added Pin To Net: NetName=NetRIBBON_8 Pin=U9-4
-Added Pin To Net: NetName=NetRIBBON_9 Pin=U9-5
-Added Pin To Net: NetName=NetRIBBON_10 Pin=U9-6
-Added Pin To Net: NetName=NetRIBBON_11 Pin=U9-7
