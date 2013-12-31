@@ -1,0 +1,16 @@
+Added Component: Designator=FB7(SM 0805 - gap trimmed)
+Added Component: Designator=FB8(SM 0805 - gap trimmed)
+Added Component: Designator=FB9(SM 0805 - gap trimmed)
+Added Component: Designator=FB10(SM 0805 - gap trimmed)
+Added Pin To Net: NetName=PGND Pin=FB7-1
+Added Pin To Net: NetName=GND Pin=FB7-2
+Added Pin To Net: NetName=DGND Pin=FB8-1
+Added Pin To Net: NetName=GND Pin=FB8-2
+Added Pin To Net: NetName=PGND Pin=FB9-1
+Added Pin To Net: NetName=GND Pin=FB9-2
+Added Pin To Net: NetName=DGND Pin=FB10-1
+Added Pin To Net: NetName=GND Pin=FB10-2
+Added Member To Class: ClassName=Power Member=Component FB7 Ferrite
+Added Member To Class: ClassName=Power Member=Component FB8 Ferrite
+Added Member To Class: ClassName=Power Member=Component FB9 Ferrite
+Added Member To Class: ClassName=Power Member=Component FB10 Ferrite
