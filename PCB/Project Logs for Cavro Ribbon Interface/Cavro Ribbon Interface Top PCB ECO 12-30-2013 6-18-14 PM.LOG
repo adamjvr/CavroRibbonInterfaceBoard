@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetU4_5 New Net Name=SCLK
+Change Net Name : Old Net Name=NetU4_6 New Net Name=CS_T1
+Change Net Name : Old Net Name=NetU4_7 New Net Name=MOSI
+Change Net Name : Old Net Name=NetU5_6 New Net Name=CS_T2
+Change Net Name : Old Net Name=NetU6_6 New Net Name=CS_T3
+Change Net Name : Old Net Name=NetU7_6 New Net Name=CS_T4
+Change Net Name : Old Net Name=NetU8_1 New Net Name=ES1_OUT
+Change Net Name : Old Net Name=NetU8_4 New Net Name=ES2_OUT

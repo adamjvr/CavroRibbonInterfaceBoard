@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CS_T1 Pin=U9-16
+Removed Pin From Net: NetName=MOSI Pin=U9-17
+Added Pin To Net: NetName=MOSI Pin=U9-16
+Added Pin To Net: NetName=CS_T1 Pin=U9-17

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetMOTOR_6 Pin=RIBBON-1
+Removed Pin From Net: NetName=NetMOTOR_4 Pin=RIBBON-3
+Removed Pin From Net: NetName=NetMOTOR_10 Pin=RIBBON-4
+Added Pin To Net: NetName=NetMOTOR_10 Pin=RIBBON-1
+Added Pin To Net: NetName=NetMOTOR_6 Pin=RIBBON-3
+Added Pin To Net: NetName=NetMOTOR_4 Pin=RIBBON-4

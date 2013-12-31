@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetFB3_1 Pin=RIBBON-14
+Removed Pin From Net: NetName=NetFB3_1 Pin=RIBBON-15
+Added Component: Designator=FB4(SM 0805 - gap trimmed)
+Added Pin To Net: NetName=GND Pin=FB4-2
+Added Pin To Net: NetName=NetFB4_1 Pin=FB4-1
+Added Pin To Net: NetName=NetFB4_1 Pin=RIBBON-14
+Added Pin To Net: NetName=NetFB4_1 Pin=RIBBON-15
+Added Net: Name=NetFB4_1
+Added Member To Class: ClassName=Ribbon Interface Member=Component FB4 Ferrite
