@@ -7,3 +7,5 @@ power and ground for the thermocouple ADCs into a connector that the original ri
 There will be two of these boards per arm on a given Cavro machine, one topside on the arm connecting
 the thermocouples and motors and another in the electronics compartment for breaking out the signals in
 the ribbon cable into individual connectors to connect to the RAMPS shield.
+
+![Prototype 1](/CavroTop.png)
