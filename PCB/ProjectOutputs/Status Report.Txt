@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Cavro Ribbon Interface.PrjPcb]
+   Generated File[Cavro Ribbon Interface Top.GTL]
+   Generated File[Cavro Ribbon Interface Top.GBL]
+   Generated File[Cavro Ribbon Interface Top.GPB]
+   Generated File[Cavro Ribbon Interface Top.GPT]
+   Generated File[Cavro Ribbon Interface Top.GTO]
+   Generated File[Cavro Ribbon Interface Top.GTP]
+   Generated File[Cavro Ribbon Interface Top.GTS]
+   Generated File[Cavro Ribbon Interface Top.GBS]
+   Generated File[Cavro Ribbon Interface Top.GBP]
+   Generated File[Cavro Ribbon Interface Top.GBO]
+   Generated File[Cavro Ribbon Interface Top.GM1]
+   Generated File[Cavro Ribbon Interface Top.GM2]
+   Generated File[Cavro Ribbon Interface Top.GM10]
+   Generated File[Cavro Ribbon Interface Top.GM13]
+   Generated File[Cavro Ribbon Interface Top.GM15]
+   Generated File[Cavro Ribbon Interface Top.GKO]
+   Generated File[Cavro Ribbon Interface Top.RUL]
+   Generated File[Cavro Ribbon Interface Top.EXTREP]
+   Generated File[Cavro Ribbon Interface Top.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 7:16:38 PM On 2/8/2014
