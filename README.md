@@ -9,3 +9,5 @@ the thermocouples and motors and another in the electronics compartment for brea
 the ribbon cable into individual connectors to connect to the RAMPS shield.
 
 ![Prototype 1](/CavroTop.png)
+
+NOTE: Currently in active development
