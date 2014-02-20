@@ -175,94 +175,98 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.DRR
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.EXTREP
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBL
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBO
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBP
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBS
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GKO
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM1
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM2
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM10
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM13
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM15
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GPB
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GPT
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTL
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTO
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTP
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTS
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.LDP
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.REP
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.RUL
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.TXT
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=ProjectOutputs\Cavro Ribbon Interface Top.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=ProjectOutputs\Import Error Report - Cavro Ribbon Interface Top.html
 DItemRevisionGUID=
 
@@ -276,12 +280,9 @@ Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
 
-[Generic_EDE]
-OutputDir=ProjectOutputs
-
 [Generic_SmartPDF]
 AutoOpenFile=-1
-AutoOpenOutJob=-1
+AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
 ProjectMode=-1
@@ -292,7 +293,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 ExportBOM=-1
-TemplateFilename=BOM Default Template 95.xlt
+TemplateFilename=BOM Default Template.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
@@ -312,6 +313,9 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=ProjectOutputs
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -664,7 +668,7 @@ Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Fax
+TargetPrinter=Send To OneNote 2010
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -672,6 +676,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+Configuration1_Name1=Filter
+Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=False|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard\PCB|BatchMode=5|FormWidth=1247|FormHeight=855|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=Value=True|Comment=True|Footprint=True
+Configuration1_Name4=OutputConfigurationParameter1
+Configuration1_Item4="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Value=Down
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=136|Description=136|Designator=136|LibRef=136|Quantity=79|Value=197|Footprint=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1218,4 +1234,26 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 

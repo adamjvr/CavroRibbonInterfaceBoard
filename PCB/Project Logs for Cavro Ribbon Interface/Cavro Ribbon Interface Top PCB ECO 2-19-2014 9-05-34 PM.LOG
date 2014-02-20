@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=+5VCC Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+5VCC Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+3.3VCC Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+3.3VCC Pin=C26-2
+Removed Pin From Net: NetName=ES1_OUT Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=+3.3VCC Pin=U8-3
+Removed Pin From Net: NetName=ES2_OUT Pin=U8-4
+Removed Pin From Net: NetName=+3.3VCC Pin=U8-6
+Removed Pin From Net: NetName=+5VCC Pin=U8-7
+Removed Member From Class: ClassName=Ribbon Interface Member=C23
+Removed Member From Class: ClassName=Ribbon Interface Member=C24
+Removed Member From Class: ClassName=Ribbon Interface Member=C25
+Removed Member From Class: ClassName=Ribbon Interface Member=C26
+Removed Member From Class: ClassName=Ribbon Interface Member=U8
+Added Pin To Net: NetName=ES1_OUT Pin=END_STOP1-4
+Added Pin To Net: NetName=ES2_OUT Pin=END_STOP2-4
