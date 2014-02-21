@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Cavro Ribbon Interface Top.PcbDoc   2/20/2014  12:29:42 AM
+NCDrill File Report For: Cavro Ribbon Interface Top.PcbDoc   2/21/2014  12:49:54 AM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,10 +8,10 @@ ASCII RoundHoles File : Cavro Ribbon Interface Top.TXT
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        15mil (0.381mm)          Round          25               5.78 Inch (146.91 mm)
-T2        28mil (0.7112mm)         Round          20               5.00 Inch (127.11 mm)
-T3        35.43mil (0.89992mm)     Round          46               6.52 Inch (165.73 mm)
+T2        28mil (0.7112mm)         Round          20               5.23 Inch (132.72 mm)
+T3        35.43mil (0.89992mm)     Round          46               6.94 Inch (176.38 mm)
 T4        120mil (3.048mm)         Round          3                4.26 Inch (108.29 mm)
 ---------------------------------------------------------------------------
-Totals                                            94               21.58 Inch (548.04 mm)
+Totals                                            94               22.22 Inch (564.30 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

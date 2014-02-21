@@ -280,6 +280,9 @@ Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
 
+[Generic_EDE]
+OutputDir=ProjectOutputs
+
 [Generic_SmartPDF]
 AutoOpenFile=-1
 AutoOpenOutJob=0
@@ -313,9 +316,6 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
-
-[Generic_EDE]
-OutputDir=ProjectOutputs
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -608,7 +608,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Fax
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Drill
 OutputName1=Drill Drawing/Guides
@@ -668,7 +668,7 @@ Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Send To OneNote 2010
+TargetPrinter=Fax
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -938,6 +938,16 @@ OutputName2=Export STEP
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
+OutputType3=AutoCAD dwg/dxf PCB
+OutputName3=AutoCAD dwg/dxf File PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=AutoCAD dwg/dxf Schematic
+OutputName4=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
 
 [Modification Levels]
 Type1=1

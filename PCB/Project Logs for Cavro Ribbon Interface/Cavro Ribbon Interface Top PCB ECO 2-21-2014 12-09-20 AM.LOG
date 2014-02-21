@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C14 Old Footprint=Panasonic VS B New Footprint=Panasonic VS C
+Change Component Footprint: Designator=C15 Old Footprint=Panasonic VS B New Footprint=Panasonic VS C
+Change Component Comment : Designator=C14 Old Comment=VAS B New Comment=VS C
+Change Component Comment : Designator=C15 Old Comment=VAS B New Comment=VS C
